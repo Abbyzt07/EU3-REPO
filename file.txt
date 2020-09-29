@@ -3,3 +3,6 @@ the red in GitHub desktop indicate
 	you have deleted these lines
 the green in GitHub desktop indicate
 	you have added new content
+
+	Honda
+	Toyota
