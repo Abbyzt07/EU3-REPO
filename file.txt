@@ -4,5 +4,3 @@ the red in GitHub desktop indicate
 the green in GitHub desktop indicate
 	you have added new content
 
-	Honda
-	Toyota
