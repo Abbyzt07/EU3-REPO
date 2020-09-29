@@ -1,3 +1,5 @@
 This is the story i want to keep track of
-jshdjkasdh
-jkhascakhsjh
+the red in GitHub desktop indicate 
+	you have deleted these lines
+the green in GitHub desktop indicate
+	you have added new content
